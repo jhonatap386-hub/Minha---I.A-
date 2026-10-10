@@ -1,5 +1,16 @@
-# Minha I.A de Suporte Técnico
+# Minha I.A de Suporte Técnico feito no Senai
 
+
+url: https://minha-i-a.onrender.com/
+
+
+Pincipais aplicações
+
+Python
+Streamlit
+render para hospedagem
+os
+groq para chave da API
 
 O principal onjetivo desse projeto foi criar um Agente de suporte técnico
 
