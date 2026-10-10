@@ -3,7 +3,6 @@
 
 url: https://minha-i-a.onrender.com/
 
-
 Pincipais aplicações
 
 Python
